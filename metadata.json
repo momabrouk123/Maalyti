@@ -1,0 +1,6 @@
+{
+  "name": "Maalyti",
+  "description": "Premium Arabic personal finance manager with bank SMS tracking and budget planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
